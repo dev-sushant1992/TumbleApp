@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TumbleApp</string>
+    <string name="short_text">Storms that form over the Atlantic and eastern Pacific Ocean are called \'Hurricanes\'.
+        Storms develop only over warm ocean waters near the equator.
+        The warm, moist air over the ocean rises upward leaving an area of low pressure. Surrounding air from high-pressure area swirls in to take its place, which again warms up and rises, thereby feeding the hurricane.</string>
+    <string name="headline_text">How do hurricanes, the most violent storms on Earth, forms ?</string>
+    <string name="reset_button">Reset</string>
+</resources>
